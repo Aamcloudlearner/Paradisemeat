@@ -1,0 +1,31 @@
+*{
+  margin: 1;
+  padding: 1;
+}
+H1
+{
+font-family: 'Zen Antique Soft', serif;
+}
+h1
+{
+  border: dashed red 5x;
+}
+img{
+  border: 3px dashed red;
+  border-radius: 300px;
+  opacity: 0.8;
+}
+
+body{
+  background: rgb(50,183,201);
+  background: linear-gradient(90deg, rgba(3,183,201,1) 35%, rgba(3,201,188,0.17440479609812676) 42%, rgba(3,183,201,1) 66%, rgba(0,255,183,1) 100%);
+}
+div
+{
+border: 3px dotted red;
+height: 25vh;
+margin-left: 550px;
+margin-right: 550px;
+background-color: #9FE2BF;
+
+}
